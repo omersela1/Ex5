@@ -1,0 +1,12 @@
+{
+        "categories": [
+            {"name":"All Books"},
+            {"name":"Fantasy"},
+            {"name":"Western"},
+            {"name":"Satire"},
+            {"name":"Horror"},
+            {"name":"Biography"}
+        ] 
+        
+    
+}
